@@ -2,4 +2,4 @@
 - hosts: localhost
   become: yes
   tasks: 
-    - ping 
+   - ping 
